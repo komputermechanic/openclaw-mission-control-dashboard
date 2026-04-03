@@ -2,6 +2,8 @@
 
 [← Phase 9](09-agent-monitor.md) | [Troubleshooting →](troubleshooting.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Build the Tasks tab — a full Kanban board with drag and drop, powered by the `todos` Supabase table.
 
 ---
