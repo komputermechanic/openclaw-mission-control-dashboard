@@ -2,6 +2,8 @@
 
 [← Phase 8](08-dashboard-shell.md) | [Next: Phase 10 — Kanban →](10-kanban.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Build the Agents tab — a real-time view of all 5 agents pulling live data from the `agent_logs` Supabase table.
 
 ---
