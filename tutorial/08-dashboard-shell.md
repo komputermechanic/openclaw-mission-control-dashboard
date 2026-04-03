@@ -2,6 +2,8 @@
 
 [← Phase 7](07-dashboard-server.md) | [Next: Phase 9 — Agent Monitor →](09-agent-monitor.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 With the server running and the connection confirmed, build the actual dashboard shell. This creates the navigation and layout — individual pages are built in the next phases.
 
 ---
