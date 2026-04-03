@@ -4,6 +4,8 @@
 
 The dashboard runs as a lightweight web server on your VPS. You access it securely through an SSH tunnel from your browser — it is never exposed to the public internet.
 
+> Don't have a VPS yet? [Grab one here](https://komputermechanic.com/go/openclaw-vps) and follow the OpenClaw installation guide before continuing.
+
 ---
 
 ## Step 1 — Ask Dev to Set Up the Server
