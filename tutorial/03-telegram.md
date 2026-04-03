@@ -2,6 +2,8 @@
 
 [← Phase 2](02-discord.md) | [Next: Phase 4 — Perplexity →](04-perplexity.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 The orchestrator is your main control point. Instead of going into each agent's Discord channel individually, you send everything from Telegram in plain language and it routes automatically.
 
 ---
