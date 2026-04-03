@@ -2,6 +2,8 @@
 
 [← Phase 1](01-agents.md) | [Next: Phase 3 — Telegram →](03-telegram.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Discord is where your agents will post their work. Each agent gets their own dedicated channel so you can always find their outputs easily and review them later.
 
 ---
