@@ -2,6 +2,8 @@
 
 [← README](../README.md) | [Next: Phase 2 — Discord →](02-discord.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Think of this phase as hiring your team before building their office. Set up everything related to the agents — who they are, how they work together, and where they report — before touching the dashboard.
 
 ---
