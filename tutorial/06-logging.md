@@ -2,6 +2,8 @@
 
 [← Phase 5](05-supabase.md) | [Next: Phase 7 — Dashboard Server →](07-dashboard-server.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Now we tell agents to write a log entry to Supabase every time they finish a task. This is what makes the Agent Monitor page show real live data instead of empty placeholders.
 
 ---
@@ -51,12 +53,8 @@ Go to **Supabase → Table Editor → agent_logs** and verify a row was created.
 
 ## Step 3 — If Agents Skip Logging in Real Tasks
 
-Sometimes agents pass the test but skip logging during real work because the rule is in their prompt but not enforced strictly enough.
-
 ```
 I have noticed that agents are completing real tasks without logging to Supabase even though the test passed. The rule exists in their prompts but it is clearly not being treated as mandatory.
-
-To remind you of the context: we set up a Supabase table called agent_logs where every agent is supposed to write an entry after every task. This powers our dashboard's Agent Monitor page. Without these logs the dashboard shows no data.
 
 Please re-enforce this as a hard gate for all 5 agents in both SOUL.md and AGENTS.md. The log write must happen before the agent sends its final reply — not after, not optionally. Test with a real Dev task and confirm the row appears in Supabase immediately. Report when fixed.
 ```
