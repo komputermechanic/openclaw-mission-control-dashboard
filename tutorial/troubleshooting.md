@@ -2,6 +2,8 @@
 
 [← Phase 10](10-kanban.md) | [← README](../README.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 ---
 
 ## Dashboard not loading after running the tunnel
