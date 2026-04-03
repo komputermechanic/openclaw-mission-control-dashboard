@@ -2,6 +2,8 @@
 
 [← Phase 6](06-logging.md) | [Next: Phase 8 — Dashboard Shell →](08-dashboard-shell.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 The dashboard runs as a lightweight web server on your VPS. You access it securely through an SSH tunnel from your browser — it is never exposed to the public internet.
 
 > Don't have a VPS yet? [Grab one here](https://komputermechanic.com/go/openclaw-vps) and follow the OpenClaw installation guide before continuing.
@@ -83,8 +85,6 @@ ssh root@YOUR_VPS_IP
 ---
 
 ## Step 4 — Create a One-Click Desktop Launcher
-
-Create a file you can double-click on your desktop to open the dashboard automatically.
 
 **Mac — save as `AgentOS.command`:**
 
