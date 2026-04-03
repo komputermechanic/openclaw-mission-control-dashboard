@@ -2,6 +2,8 @@
 
 [← Phase 3](03-telegram.md) | [Next: Phase 5 — Supabase →](05-supabase.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Perplexity gives all your agents access to real-time web search. Without this, agents can only use their training data which gets outdated quickly. This is especially important for Alex who relies on current news and information.
 
 > This phase is optional but strongly recommended.
