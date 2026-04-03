@@ -2,7 +2,7 @@
 
 Created by **Komputer Mechanic** — <https://komputermechanic.com/>
 
-> Watch the full video tutorial on YouTube: <https://www.youtube.com/watch?v=2udlMLtEdcg>
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — <https://youtu.be/2udlMLtEdcg>
 
 Build a fully operational AI agent system with a premium SaaS-style dashboard — 5 specialized agents, real-time activity monitoring, a drag-and-drop Kanban board, and a Content CRM, all running on your own VPS.
 
