@@ -1,9 +1,0 @@
-{
-  "author": "Komputer Mechanic",
-  "website": "https://komputermechanic.com/",
-  "title": "OpenClaw Mission Control Dashboard",
-  "summary": "Build a premium multi-agent dashboard for OpenClaw — 5 specialized agents, Supabase activity logging, Kanban task board, Discord and Telegram integration, and a secure VPS-hosted web interface.",
-  "video": "https://www.youtube.com/watch?v=2udlMLtEdcg",
-  "phases": 10,
-  "stack": ["OpenClaw", "Supabase", "Discord", "Telegram", "Perplexity", "Tailwind CSS", "Chart.js", "Python HTTP server"]
-}
