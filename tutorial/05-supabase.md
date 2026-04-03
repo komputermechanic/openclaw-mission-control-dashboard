@@ -2,6 +2,8 @@
 
 [← Phase 4](04-perplexity.md) | [Next: Phase 6 — Logging →](06-logging.md)
 
+> 🎬 **Video tutorial available:** Watch the full walkthrough on YouTube — https://youtu.be/2udlMLtEdcg
+
 Supabase is the database that powers the dashboard. We use it to store agent activity logs (Agent Monitor page) and tasks (Kanban board). Setting it up now means the dashboard will have real data from day one.
 
 Go to **Supabase → SQL Editor** and run each script below.
