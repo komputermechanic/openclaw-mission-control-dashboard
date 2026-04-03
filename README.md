@@ -24,7 +24,7 @@ Build a fully operational AI agent system with a premium SaaS-style dashboard â€
 
 ## What You Will Need
 
-- A VPS with OpenClaw installed
+- A VPS with OpenClaw installed â€” [grab one here](https://komputermechanic.com/go/openclaw-vps)
 - A Supabase account (free tier works)
 - A Discord server
 - A Telegram account
